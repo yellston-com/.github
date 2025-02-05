@@ -3,6 +3,6 @@
 
 
 ## User-Facing Changes
-<!-- List any changes that affect users. Write "None" if there are no user-facing changes -->
+<!-- List any changes that affect users. Delete this section or keep it empty if there are no user-facing changes -->
 <!-- Note: These changes will be summarized by AI for release notes and Slack notifications -->
 
